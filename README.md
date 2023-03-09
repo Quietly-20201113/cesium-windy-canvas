@@ -1,6 +1,10 @@
 # cesium-windy-canvas
 Cesium上建立风场动态粒子效果,自己封装可使用的API
 
+**已经发布插件咯**
+`https://www.npmjs.com/package/cesium-windy-canvas`
+`npm i cesium-windy-canvas -S`
+
 效果图如下
 
 ![效果杠杠的](https://raw.githubusercontent.com/Quietly-20201113/cesium-windy-canvas/master/windy.gif)
