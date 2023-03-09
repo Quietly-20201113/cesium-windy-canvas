@@ -1,6 +1,6 @@
 export default class WindyColor {
-  constructor() {
-    this.color = ['#293C8B', '#BBF49A', '#869C4A', '#369D41', '#287A61'];
+  constructor(color) {
+    this.color = color || ['#293C8B', '#BBF49A', '#869C4A', '#369D41', '#287A61'];
   }
 
   // eslint-disable-next-line consistent-return

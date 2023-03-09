@@ -1,0 +1,32 @@
+{
+  "name": "cesium-windy-canvas",
+  "version": "1.0.3",
+  "description": "Cesium上建立风场动态粒子效果,可根据风速自定义颜色等功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "windy/",
+    "index.js"
+  ],
+  "keywords": [
+    "cesium",
+    "windy",
+    "canvas",
+    "JavaScript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quietly-20201113/cesium-windy-canvas.git"
+  },
+  "author": "Quietly-20201113",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quietly-20201113/cesium-windy-canvas/issues"
+  },
+  "homepage": "https://github.com/Quietly-20201113/cesium-windy-canvas#readme",
+  "dependencies": {
+    "cesium-windy-canvas": "^1.0.1"
+  }
+}
