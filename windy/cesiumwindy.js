@@ -1,7 +1,7 @@
 import * as Cesium from 'cesium';
-import CanvasParticle from '@/utils/windy/canvasparticle';
-import CanvasWindField from '@/utils/windy/canvasWindField.js';
-import WindyColor from '@/utils/windy/windyColor';
+import CanvasParticle from './canvasparticle';
+import CanvasWindField from './canvasWindField.js';
+import WindyColor from './windyColor';
 
 export default class CesiumWindy {
   constructor(json, params) {

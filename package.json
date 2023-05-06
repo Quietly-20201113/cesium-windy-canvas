@@ -1,6 +1,6 @@
 {
   "name": "cesium-windy-canvas",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "Cesium上建立风场动态粒子效果,可根据风速自定义颜色等功能",
   "main": "index.js",
   "scripts": {
